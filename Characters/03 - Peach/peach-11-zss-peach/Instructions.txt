@@ -1,0 +1,14 @@
+Put the cxx folder in: 
+"data > fighter > peach > model > body"
+
+Put the kassar (The umbrella) folder in:
+"data > fighter > peach > model > kassar"
+
+Put the content of the chr folder in: 
+"data > ui > replace > chr" 
+
+Rename the two x's to whatever number you want the skin or icon to be in.
+But remember the chr stuff starts with 01 and not 00!
+So if you put the skin in 03 you will have to rename the chr stuff to 04.
+
+Thank you for downloading!

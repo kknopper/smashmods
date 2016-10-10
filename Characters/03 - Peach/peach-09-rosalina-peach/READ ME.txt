@@ -1,0 +1,4 @@
+If you want to add this costume as an additional slot,
+YOU MUST NAME THE CXX FOLDER IN KASSAR TO MATCH
+YOUR CXX FOLDER IN BODY, OR ELSE THE GAME WILL 
+FREEZE.
