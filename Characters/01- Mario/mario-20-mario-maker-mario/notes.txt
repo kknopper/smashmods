@@ -1,0 +1,4 @@
+1. Find Mario Skin #04 (folder c04)
+2. Duplicate folder into this file
+3. Rename C19
+4. Add model.nut file (in the rar) into the C19 folder to override the skin.
